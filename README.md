@@ -2,7 +2,7 @@
 ### *AI-Assisted Resume & Job Description Analyzer*
 
 🚀 **Live App:**  
-👉 https://resumecheckerdetails.streamlit.app/
+👉 https://resume-skills-matcher.streamlit.app/
 
 ---
 
